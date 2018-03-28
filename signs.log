@@ -1,11 +1,482 @@
+Logging Initialisiert
+Number of training examples = 34799
+Number of validation examples = 4410
+Number of testing examples = 12630
+Image data shape = (32, 32, 3)
+Number of classes = 43
+New number of training examples = 86430
+676 batches per epoch
+Training...
 
-[ 5 19 19 19 19]
-[19 19 19 19 19]
-[19 19 19 19 19]
-Load image 0: image_4.png
-Load image 1: image_5.png
-Load image 2: image_3.png
-Load image 3: image_2.png
-Load image 4: image_1.png
-[ 2 14 40 31 23]
+  Step: 67 Training Accuracy = 1.000
+  Step: 134 Training Accuracy = 1.000
+  Step: 201 Training Accuracy = 1.000
+  Step: 268 Training Accuracy = 1.000
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 1.000
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 1 ...
+Validation Accuracy = 0.953
+
+Model saved
+  Step: 67 Training Accuracy = 1.000
+  Step: 134 Training Accuracy = 1.000
+  Step: 201 Training Accuracy = 0.992
+  Step: 268 Training Accuracy = 1.000
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 1.000
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 2 ...
+Validation Accuracy = 0.960
+
+Model saved
+  Step: 67 Training Accuracy = 0.984
+  Step: 134 Training Accuracy = 1.000
+  Step: 201 Training Accuracy = 1.000
+  Step: 268 Training Accuracy = 1.000
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 1.000
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 3 ...
+Validation Accuracy = 0.960
+
+Model saved
+  Step: 67 Training Accuracy = 1.000
+  Step: 134 Training Accuracy = 1.000
+  Step: 201 Training Accuracy = 1.000
+  Step: 268 Training Accuracy = 1.000
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 1.000
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 4 ...
+Validation Accuracy = 0.960
+
+Model saved
+  Step: 67 Training Accuracy = 1.000
+  Step: 134 Training Accuracy = 1.000
+  Step: 201 Training Accuracy = 1.000
+  Step: 268 Training Accuracy = 1.000
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 0.992
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 5 ...
+Validation Accuracy = 0.961
+
+Model saved
+  Step: 67 Training Accuracy = 1.000
+  Step: 134 Training Accuracy = 1.000
+  Step: 201 Training Accuracy = 1.000
+  Step: 268 Training Accuracy = 1.000
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 1.000
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 6 ...
+Validation Accuracy = 0.954
+
+Model saved
+  Step: 67 Training Accuracy = 1.000
+  Step: 134 Training Accuracy = 1.000
+  Step: 201 Training Accuracy = 1.000
+  Step: 268 Training Accuracy = 0.992
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 1.000
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 7 ...
+Validation Accuracy = 0.954
+
+Model saved
+  Step: 67 Training Accuracy = 1.000
+  Step: 134 Training Accuracy = 1.000
+  Step: 201 Training Accuracy = 1.000
+  Step: 268 Training Accuracy = 1.000
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 1.000
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 8 ...
+Validation Accuracy = 0.960
+
+Model saved
+  Step: 67 Training Accuracy = 1.000
+  Step: 134 Training Accuracy = 1.000
+  Step: 201 Training Accuracy = 1.000
+  Step: 268 Training Accuracy = 1.000
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 1.000
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 9 ...
+Validation Accuracy = 0.955
+
+Model saved
+  Step: 67 Training Accuracy = 1.000
+  Step: 134 Training Accuracy = 1.000
+  Step: 201 Training Accuracy = 1.000
+  Step: 268 Training Accuracy = 1.000
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 1.000
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 10 ...
+Validation Accuracy = 0.959
+
+Model saved
+  Step: 67 Training Accuracy = 1.000
+  Step: 134 Training Accuracy = 0.992
+  Step: 201 Training Accuracy = 1.000
+  Step: 268 Training Accuracy = 1.000
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 1.000
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 11 ...
+Validation Accuracy = 0.971
+
+Model saved
+  Step: 67 Training Accuracy = 1.000
+  Step: 134 Training Accuracy = 1.000
+  Step: 201 Training Accuracy = 1.000
+  Step: 268 Training Accuracy = 1.000
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 1.000
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 12 ...
+Validation Accuracy = 0.967
+
+Model saved
+  Step: 67 Training Accuracy = 1.000
+  Step: 134 Training Accuracy = 1.000
+  Step: 201 Training Accuracy = 1.000
+  Step: 268 Training Accuracy = 1.000
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 1.000
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 13 ...
+Validation Accuracy = 0.971
+
+Model saved
+  Step: 67 Training Accuracy = 1.000
+  Step: 134 Training Accuracy = 1.000
+  Step: 201 Training Accuracy = 1.000
+  Step: 268 Training Accuracy = 1.000
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 1.000
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 14 ...
+Validation Accuracy = 0.947
+
+Model saved
+  Step: 67 Training Accuracy = 1.000
+  Step: 134 Training Accuracy = 1.000
+  Step: 201 Training Accuracy = 1.000
+  Step: 268 Training Accuracy = 1.000
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 1.000
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 15 ...
+Validation Accuracy = 0.964
+
+Model saved
+  Step: 67 Training Accuracy = 1.000
+  Step: 134 Training Accuracy = 1.000
+  Step: 201 Training Accuracy = 1.000
+  Step: 268 Training Accuracy = 1.000
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 1.000
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 16 ...
+Validation Accuracy = 0.969
+
+Model saved
+  Step: 67 Training Accuracy = 1.000
+  Step: 134 Training Accuracy = 1.000
+  Step: 201 Training Accuracy = 1.000
+  Step: 268 Training Accuracy = 1.000
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 1.000
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 17 ...
+Validation Accuracy = 0.964
+
+Model saved
+  Step: 67 Training Accuracy = 1.000
+  Step: 134 Training Accuracy = 1.000
+  Step: 201 Training Accuracy = 1.000
+  Step: 268 Training Accuracy = 1.000
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 1.000
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 18 ...
+Validation Accuracy = 0.970
+
+Model saved
+  Step: 67 Training Accuracy = 1.000
+  Step: 134 Training Accuracy = 1.000
+  Step: 201 Training Accuracy = 1.000
+  Step: 268 Training Accuracy = 1.000
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 1.000
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 19 ...
+Validation Accuracy = 0.973
+
+Model saved
+  Step: 67 Training Accuracy = 1.000
+  Step: 134 Training Accuracy = 1.000
+  Step: 201 Training Accuracy = 1.000
+  Step: 268 Training Accuracy = 1.000
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 1.000
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 20 ...
+Validation Accuracy = 0.965
+
+Model saved
+  Step: 67 Training Accuracy = 1.000
+  Step: 134 Training Accuracy = 1.000
+  Step: 201 Training Accuracy = 1.000
+  Step: 268 Training Accuracy = 1.000
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 1.000
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 21 ...
+Validation Accuracy = 0.965
+
+Model saved
+  Step: 67 Training Accuracy = 1.000
+  Step: 134 Training Accuracy = 1.000
+  Step: 201 Training Accuracy = 1.000
+  Step: 268 Training Accuracy = 1.000
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 1.000
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 22 ...
+Validation Accuracy = 0.967
+
+Model saved
+  Step: 67 Training Accuracy = 1.000
+  Step: 134 Training Accuracy = 1.000
+  Step: 201 Training Accuracy = 1.000
+  Step: 268 Training Accuracy = 1.000
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 1.000
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 23 ...
+Validation Accuracy = 0.966
+
+Model saved
+  Step: 67 Training Accuracy = 1.000
+  Step: 134 Training Accuracy = 1.000
+  Step: 201 Training Accuracy = 1.000
+  Step: 268 Training Accuracy = 1.000
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 1.000
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 24 ...
+Validation Accuracy = 0.962
+
+Model saved
+  Step: 67 Training Accuracy = 1.000
+  Step: 134 Training Accuracy = 1.000
+  Step: 201 Training Accuracy = 1.000
+  Step: 268 Training Accuracy = 1.000
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 1.000
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 25 ...
+Validation Accuracy = 0.969
+
+Model saved
+  Step: 67 Training Accuracy = 1.000
+  Step: 134 Training Accuracy = 1.000
+  Step: 201 Training Accuracy = 1.000
+  Step: 268 Training Accuracy = 1.000
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 1.000
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 26 ...
+Validation Accuracy = 0.968
+
+Model saved
+  Step: 67 Training Accuracy = 1.000
+  Step: 134 Training Accuracy = 1.000
+  Step: 201 Training Accuracy = 1.000
+  Step: 268 Training Accuracy = 1.000
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 1.000
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 27 ...
+Validation Accuracy = 0.973
+
+Model saved
+  Step: 67 Training Accuracy = 1.000
+  Step: 134 Training Accuracy = 1.000
+  Step: 201 Training Accuracy = 1.000
+  Step: 268 Training Accuracy = 1.000
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 1.000
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 28 ...
+Validation Accuracy = 0.970
+
+Model saved
+  Step: 67 Training Accuracy = 1.000
+  Step: 134 Training Accuracy = 1.000
+  Step: 201 Training Accuracy = 1.000
+  Step: 268 Training Accuracy = 1.000
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 1.000
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 29 ...
+Validation Accuracy = 0.974
+
+Model saved
+  Step: 67 Training Accuracy = 1.000
+  Step: 134 Training Accuracy = 1.000
+  Step: 201 Training Accuracy = 1.000
+  Step: 268 Training Accuracy = 1.000
+  Step: 335 Training Accuracy = 1.000
+  Step: 402 Training Accuracy = 1.000
+  Step: 469 Training Accuracy = 1.000
+  Step: 536 Training Accuracy = 1.000
+  Step: 603 Training Accuracy = 1.000
+  Step: 670 Training Accuracy = 1.000
+EPOCH 30 ...
+Validation Accuracy = 0.973
+
+Model saved
+Test Accuracy = 0.962
+Load image 0: image_1.png
+Load image 1: image_2.png
+Load image 2: image_4.png
+Load image 3: image_3.png
+Load image 4: image_5.png
+[29 31  2 40 14]
+Accuracy: 0.0%
+TopKV2(values=array([[ 15.46146774,   5.19661856,   2.47270226,   0.87698185,
+          0.80025703],
+       [ 95.45049286,  27.69519806,  23.20830917,  13.81410694,
+          9.55595875],
+       [ 91.8983078 ,  30.68483162,   7.5285182 ,   6.06603384,
+         -0.86514866],
+       [ 67.55406189,  18.09561539,   7.38151741,   6.72067213,
+          2.80044961],
+       [ 46.72928238,  12.00559425,   1.80249643,  -2.12635636,
+         -4.43400621]], dtype=float32), indices=array([[29, 31, 12, 17, 40],
+       [31, 23, 19, 21, 29],
+       [ 2,  5,  3,  8,  1],
+       [40, 38, 33, 39, 37],
+       [14, 17, 13,  1, 29]], dtype=int32))
+[29 31 40  2 14]
 Accuracy: 80.0%
+TopKV2(values=array([[ 15.46146774,   5.19661856,   2.47270226,   0.87698185,
+          0.80025703],
+       [ 95.45049286,  27.69519806,  23.20830917,  13.81410694,
+          9.55595875],
+       [ 67.55406189,  18.09561539,   7.38151741,   6.72067213,
+          2.80044961],
+       [ 91.8983078 ,  30.68483162,   7.5285182 ,   6.06603384,
+         -0.86514866],
+       [ 46.72928238,  12.00559425,   1.80249643,  -2.12635636,
+         -4.43400621]], dtype=float32), indices=array([[29, 31, 12, 17, 40],
+       [31, 23, 19, 21, 29],
+       [40, 38, 33, 39, 37],
+       [ 2,  5,  3,  8,  1],
+       [14, 17, 13,  1, 29]], dtype=int32))
+TopKV2(values=array([[  9.99961734e-01,   3.48350331e-05,   2.28577824e-06,
+          4.63469945e-07,   4.29240146e-07],
+       [  1.00000000e+00,   3.75188344e-30,   4.22295670e-32,
+          3.51373729e-36,   4.97140394e-38],
+       [  1.00000000e+00,   3.31489349e-22,   7.36877206e-27,
+          3.80535099e-27,   7.54857589e-29],
+       [  1.00000000e+00,   2.60210141e-27,   2.28384251e-37,
+          5.29074024e-38,   0.00000000e+00],
+       [  1.00000000e+00,   8.31179190e-16,   3.07996210e-20,
+          6.05710324e-22,   6.02651551e-23]], dtype=float32), indices=array([[29, 31, 12, 17, 40],
+       [31, 23, 19, 21, 29],
+       [40, 38, 33, 39, 37],
+       [ 2,  5,  3,  8,  0],
+       [14, 17, 13,  1, 29]], dtype=int32))
